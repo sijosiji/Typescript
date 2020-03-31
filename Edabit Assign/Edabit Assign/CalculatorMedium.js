@@ -1,4 +1,6 @@
-﻿function calculator(num1, operator, num2) {
+﻿/*Create a function that takes two numbers and a mathematical operator + - / * and will perform a calculation with the given numbers.
+ */ 
+function calculator(num1, operator, num2) {
 	switch (oper) {
 		case '+':
 			return num1 + num2;
