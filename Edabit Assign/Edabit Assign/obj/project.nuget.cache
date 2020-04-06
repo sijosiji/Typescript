@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oYVVZ4TzmcFGlMfLfnjaogPj2NMxSGw8+dYOptmDb4CZjO4C7kNW/Id6jyUjHVKPgyn6Be1y/I5mldzrDj/AsQ==",
+  "dgSpecHash": "GycPnJ7OU+IbTaFOC0t+NsmnGgLfKwovy0HcUeVpecE8B4OzGrf88Q0/Wli2rGmMCK2p91Df2dfIkC+OdydQUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.typescript.msbuild\\3.8.3\\microsoft.typescript.msbuild.3.8.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj": {
+    "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
         "projectName": "Edabit Assign",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\Edabit Assign.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Edabitassignment\\Edabit Assign\\Edabit Assign\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\EdabitTypeScript\\Edabit Assign\\Edabit Assign\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
